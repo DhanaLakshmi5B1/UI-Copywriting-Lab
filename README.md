@@ -52,6 +52,3 @@ Clear and concise UI copy helps users understand actions quickly and improves ov
 
 ![GitHub Repository Upload](proof2.png)
 
-
-### Proof 3 – GitHub Repository Upload
-![GitHub Upload](proof3.png)
