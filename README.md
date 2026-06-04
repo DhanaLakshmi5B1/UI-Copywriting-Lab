@@ -40,6 +40,12 @@ Clear and concise UI copy helps users understand actions quickly and improves ov
 
 ## Proof of Execution
 
-![UI Copy Example](ui-copy-example.png)
+### Proof 1 - UI Copy Example
+
+![Proof1](ui-copy-example.png)
+
+### Proof 2 - Report Screenshot
+
+![Proof2](proof1.png)
 
 ![Report Screenshot](proof1.png)
