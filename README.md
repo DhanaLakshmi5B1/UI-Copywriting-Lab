@@ -41,10 +41,17 @@ Clear and concise UI copy helps users understand actions quickly and improves ov
 ## Proof of Execution
 
 ### Proof 1 – UI Copy Examples
-![UI Copy Examples](proof1.png)
 
-### Proof 2 – Report Document
-![Report Document](proof2.png)
+![UI Copy Examples](ui-copy-example.png)
+
+### Proof 2 – UI Copywriting Lab Report
+
+![UI Copywriting Lab Report](proof1.png)
+
+### Proof 3 – GitHub Repository Upload
+
+![GitHub Repository Upload](proof2.png)
+
 
 ### Proof 3 – GitHub Repository Upload
 ![GitHub Upload](proof3.png)
